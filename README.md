@@ -1,4 +1,4 @@
-<img src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif"
+<img src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif" alt="Introduction Banner.. />
 
 - 👋 Hi, I’m **Shepl**
 - :computer: I’m **Junior DevOps Engineer**
@@ -6,6 +6,8 @@
 - 🌱 I’m currently Developing my skills in  **DevOps Tools**
 
 ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true)
+
+                                                                        
 ![codes stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact)
 
 
