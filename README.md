@@ -1,4 +1,4 @@
-<img src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif" alt="Introduction Banner.. " style="text-align: center; margin-bottom: 30px;" />
+<img src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif" alt="Introduction Banner.. " style="text-align: center; margin-bottom: 80px;" />
 
 - 👋 Hi, I’m **Shepl**
 - :computer: I’m **Junior DevOps Engineer**
