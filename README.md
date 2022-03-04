@@ -1,12 +1,11 @@
-<img src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif" alt="Introduction Banner.. " style="text-align: center; margin-bottom: 80px;" />
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=13862711344691417" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
 
 - 👋 Hi, I’m **Shepl**
 - :computer: I’m **Junior DevOps Engineer**
 - 👀 Interested in  **Cloud Development, Custom Android Roms, Cyber Security Tools**
 - 🌱 I’m currently developing my skills in  **DevOps Tools**
 
-![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true)                                                  
-![codes stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical)
+![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true)                                                 (https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical)
 
 
 <!---
