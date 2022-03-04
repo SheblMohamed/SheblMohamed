@@ -5,7 +5,7 @@
 - 🌱 I’m currently developing my skills in  **DevOps Tools**
 
 ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true)
-![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical)
+![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&show_icons=true&theme=radical)
 
 
 <!---
