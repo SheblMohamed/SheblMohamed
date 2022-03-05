@@ -8,8 +8,8 @@
 - 🌱 I’m currently developing my skills in  **DevOps Tools**
 
 <p align="center">
-  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true">
-  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical">
+  <img width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true">
+  <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical">
 </p>
 <!-- ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true)
 
