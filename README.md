@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="600" height="200" src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif">
+  <img width="600" height="600" src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif">
 </p>
+
 - 👋 Hi, I’m **Shepl**
 - :computer: I’m **Junior DevOps Engineer**
 - 👀 Interested in  **Cloud Development, Custom Android Roms, Cyber Security Tools**
