@@ -1,3 +1,4 @@
+![Image](https://github.com/SheplX/SheplX/blob/main/Img/logo.gif)
 
 - 👋 Hi, I’m **Shepl**
 - :computer: I’m **Junior DevOps Engineer**
