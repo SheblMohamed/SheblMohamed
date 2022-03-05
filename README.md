@@ -7,6 +7,9 @@
 - 👀 Interested in  **Cloud Development, Custom Android Roms, Cyber Security Tools**
 - 🌱 I’m currently developing my skills in  **DevOps Tools**
 
+<p align="center">
+  <img width="600" height="300" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true">
+</p>
 ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true)
 
 
