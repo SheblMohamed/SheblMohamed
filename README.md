@@ -1,4 +1,4 @@
-![Image]("https://github.com/SheplX/SheplX/blob/main/Img/logo.gif" height="354" width="450" frameborder="0" scrolling="no")
+![Image](https://github.com/SheplX/SheplX/blob/main/Img/logo.gif height="354" width="450" frameborder="0" scrolling="no")
 
 - 👋 Hi, I’m **Shepl**
 - :computer: I’m **Junior DevOps Engineer**
