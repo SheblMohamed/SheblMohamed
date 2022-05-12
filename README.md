@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=700&height=70&lines=Welcome+to+my+GitHub+Profile+)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20To%20My%20GitHub%20Profile;Iam%20DevOps%20Engineer;%20AWS%20Cloud%20Practitioner;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <p align="center">
   <img width="600" height="300" src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif">
