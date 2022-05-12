@@ -22,7 +22,7 @@ DevOps Engineer & AWS Certified Cloud Practitioner Interested in Cloud Developme
 </p>
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true"
--
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical"
 
 <!-- ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true) -->
