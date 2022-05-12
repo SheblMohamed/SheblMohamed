@@ -18,7 +18,7 @@
 </p>
 <h1 align="center"> :rocket: A passionate DevOps engineer</h1>
 <p align="center">
-DevOps Engineer & AWS Certified Cloud Practitioner Interested in Cloud Development, Custom Android Roms, Cyber Security Tools, I’m currently developing my skills in DevOps Tools
+DevOps Engineer & AWS Certified Cloud Practitioner Interested in Cloud Development, Custom Android Roms, Cyber Security Tools, I’m currently developing my skills in DevOps Tools.
 </p>
 <p align="center">
   
