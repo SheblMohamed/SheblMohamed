@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-22-512.png"/></a>
+  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-48-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png"/></a>
+  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-27-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Facebook_messenger-512.png"/></a>
+  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-01-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/qr/U4KREMTM6HARD1/"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Whatsapp_telephone_handset-512.png"/></a>
+  <a href="https://wa.me/qr/U4KREMTM6HARD1/"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-37-512.png"/></a>
 </p>
 <br/>
 <p align="center">
