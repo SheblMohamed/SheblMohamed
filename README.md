@@ -23,6 +23,7 @@ Hi, I’m **Shepl**
 I’m currently developing my skills in  **DevOps Tools**
 
 ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true)
+  
 ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical)
 </p>
 <!-- <p align="center">
@@ -30,9 +31,9 @@ I’m currently developing my skills in  **DevOps Tools**
   <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical">
 </p> -->
 
-![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true)
+<!-- ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true) -->
 
-![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical)
+<!-- ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical) -->
 
 
 <!---
