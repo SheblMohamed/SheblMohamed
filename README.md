@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=700&height=70&lines=Welcome+to+my+GitHub+Profile+)](https://git.io/typing-svg)
 <p align="center">
   <img width="600" height="300" src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif">
 </p>
