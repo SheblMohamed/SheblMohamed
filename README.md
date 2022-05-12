@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/a3GLUkU.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/Vahbdkj.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://imgur.com/268O9Cm"/></a>
+  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/268O9Cm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/qr/U4KREMTM6HARD1/"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://imgur.com/ssIGVVp"/></a>
+  <a href="https://wa.me/qr/U4KREMTM6HARD1/"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://i.imgur.com/ssIGVVp.png"/></a>
 </p>
 <br/>
 <p align="center">
