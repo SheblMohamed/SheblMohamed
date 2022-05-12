@@ -8,7 +8,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://imgur.com/268O9Cm"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://wa.me/qr/U4KREMTM6HARD1/"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://imgur.com/ssIGVVp"/></a>
 </p>
 <br/>
 <p align="center">
