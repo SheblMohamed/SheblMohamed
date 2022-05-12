@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=700&height=70&lines=Welcome+to+my+GitHub+Profile+)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <p align="center">
   <img width="600" height="300" src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif">
 </p>
