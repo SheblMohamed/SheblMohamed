@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20To%20My%20GitHub%20Profile;Iam%20DevOps%20Engineer;%20AWS%20Cloud%20Practitioner;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20To%20My%20GitHub%20Profile;Iam%20DevOps%20Engineer;%20AWS%20Cloud%20Practitioner;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <!-- Social icons section -->
@@ -22,11 +22,10 @@ DevOps Engineer & AWS Certified Cloud Practitioner Interested in Cloud Developme
 </p>
 <p align="center">
   
-![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true"
   
-![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical)
-  
-</p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical"
+
 <!-- <p align="center">
   <img width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true">
   <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical">
