@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/268O9Cm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/qr/U4KREMTM6HARD1/"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://i.imgur.com/ssIGVVp.png"/></a>
+  <a href="https://wa.me/qr/U4KREMTM6HARD1/"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667"/></a>
 </p>
 <br/>
 <p align="center">
