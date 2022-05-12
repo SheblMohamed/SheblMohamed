@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20To%20My%20GitHub%20Profile;Iam%20DevOps%20Engineer;%20AWS%20Cloud%20Practitioner;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"/></a>
@@ -16,12 +16,12 @@
 <p align="center">
   <img width="600" height="300" src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif">
 </p>
-
+<p align="center">
 - Hi, I’m **Shepl**
 - I’m **Junior DevOps Engineer**
 - Interested in  **Cloud Development, Custom Android Roms, Cyber Security Tools**
 - I’m currently developing my skills in  **DevOps Tools**
-
+</p>
 <!-- <p align="center">
   <img width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true">
   <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical">
