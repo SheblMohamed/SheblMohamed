@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-01-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/qr/U4KREMTM6HARD1/"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-37-512.png"/></a>
+  <a href="https://wa.me/201111435876"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-37-512.png"/></a>
 </p>
 <br/>
 <p align="center">
