@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-48-512.png"/></a>
+  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn3.iconfinder.com/data/icons/social-network-linear-color/100/Telegram-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-27-512.png"/></a>
+  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn3.iconfinder.com/data/icons/social-network-linear-color/100/LinkedIn-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-01-512.png"/></a>
+  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn3.iconfinder.com/data/icons/social-network-linear-color/100/Facebook-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/201111435876"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-37-512.png"/></a>
+  <a href="https://wa.me/201111435876"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn3.iconfinder.com/data/icons/social-network-linear-color/100/Whatsapp-512.png"/></a>
 </p>
 <br/>
 <p align="center">
