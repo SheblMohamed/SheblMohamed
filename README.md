@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Telegram-512.png"/></a>
+  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/739/739158.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/LinkedIn-512.png"/></a>
+  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons.flaticon.com/png/512/739/premium/739168.png?token=exp=1652641920~hmac=38e758b0be936a2e8cd019dcd18e3830"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Facebook-512.png"/></a>
+  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons.flaticon.com/png/512/739/premium/739135.png?token=exp=1652641845~hmac=f09f347d814fd214d9004c6ab8a10176"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/201111435876"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/WhatsApp-512.png"/></a>
+  <a href="https://wa.me/201111435876"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons.flaticon.com/png/512/739/premium/739145.png?token=exp=1652642611~hmac=2d7d52c29c98d15e5716a94344c6de36"/></a>
 </p>
 <br/>
 <p align="center">
