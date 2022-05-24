@@ -16,7 +16,7 @@
 <p align="center">
   <img width="600" height="300" src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif">
 </p>
-<h1 align="center"> :rocket: A passionate DevOps engineer</h1>
+<h1 align="center"> :rocket: A Passionate DevOps Engineer</h1>
 <p align="center">
 DevOps Engineer & AWS Certified Cloud Practitioner Interested in Cloud Development, Custom Android Roms, Cyber Security Tools, I’m currently developing my skills in DevOps Tools.
 </p>
