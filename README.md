@@ -20,11 +20,11 @@
 <p align="center">
 DevOps Engineer & AWS Certified Cloud Practitioner Interested in Cloud Development, Custom Android Roms, Cyber Security Tools, I’m currently developing my skills in DevOps Tools.
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true"
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=monokai-metallian&hide_border=true"
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheplX&layout=compact&theme=radical&show_icons=true"
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheplX&layout=compact&theme=monokai-metallian&hide_border=true"
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical"
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&theme=monokai-metallian&hide_border=true"
 </p>          
 <!-- ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true) -->
 <!-- ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical) -->
@@ -32,3 +32,9 @@ DevOps Engineer & AWS Certified Cloud Practitioner Interested in Cloud Developme
 SheplX/SheplX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true"
+</p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheplX&layout=compact&theme=radical&show_icons=true"
+</p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical"
+</p>    -->
