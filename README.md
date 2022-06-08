@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/SheplX"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20To%20My%20GitHub%20Profile;Iam%20DevOps%20Engineer;%20AWS%20Cloud%20Practitioner;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <!-- Social icons section -->
 <p align="center">
@@ -14,9 +13,9 @@ src="https://github.com/SheplX/SheplX/blob/main/Img/telegram.png"/></a>
   <a href="https://wa.me/201111435876"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://github.com/SheplX/SheplX/blob/main/Img/whatsapp.png"/></a>
 </p>
 <br/>
-<p align="center">
-  <img width="600" height="300" src="https://github.com/SheplX/SheplX/blob/main/Img/logo.gif">
-</p>
+<!-- <p align="center">
+  <img width="600" height="300" src=" ">
+</p> -->
 <h1 align="center"> :rocket: A Passionate DevOps Engineer</h1>
 <p align="center">
 DevOps Engineer & AWS Certified Cloud Practitioner Interested in Cloud Development, Custom Android Roms, Cyber Security Tools, I’m currently developing my skills in DevOps Tools.
