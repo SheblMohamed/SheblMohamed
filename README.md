@@ -4,13 +4,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/739/739158.png"/></a>
+  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram"
+src="https://github.com/SheplX/SheplX/blob/main/Img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons.flaticon.com/png/512/739/premium/739168.png?token=exp=1652641920~hmac=38e758b0be936a2e8cd019dcd18e3830"/></a>
+  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/SheplX/SheplX/blob/main/Img/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons.flaticon.com/png/512/739/premium/739135.png?token=exp=1652641845~hmac=f09f347d814fd214d9004c6ab8a10176"/></a>
+  <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://github.com/SheplX/SheplX/blob/main/Img/facebook.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/201111435876"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons.flaticon.com/png/512/739/premium/739145.png?token=exp=1652642611~hmac=2d7d52c29c98d15e5716a94344c6de36"/></a>
+  <a href="https://wa.me/201111435876"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://github.com/SheplX/SheplX/blob/main/Img/whatsapp.png"/></a>
 </p>
 <br/>
 <p align="center">
@@ -28,6 +29,7 @@ DevOps Engineer & AWS Certified Cloud Practitioner Interested in Cloud Developme
 </p>         
 <!-- ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true) -->
 <!-- ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical) -->
+<!-- https://cdn-icons.flaticon.com -->
 <!---
 SheplX/SheplX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
