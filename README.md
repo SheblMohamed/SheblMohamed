@@ -10,7 +10,7 @@ src="https://github.com/SheplX/SheplX/blob/main/Img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/shepl.dev/"><img width="32px" alt="Facebook" title="Facebook" src="https://github.com/SheplX/SheplX/blob/main/Img/facebook.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/qr/201026303564"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://github.com/SheplX/SheplX/blob/main/Img/whatsapp.png"/></a>
+  <a href="https://wa.me/201026303564"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://github.com/SheplX/SheplX/blob/main/Img/whatsapp.png"/></a>
 </p>
 <br/>
 <!-- <p align="center">
