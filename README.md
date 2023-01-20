@@ -3,10 +3,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram"
-src="https://github.com/SheplX/SheplX/blob/main/Img/telegram.png"/></a>
+  <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/SheplX/SheplX/blob/main/Img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/SheplX/SheplX/blob/main/Img/linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:shepl.dev@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/SheplX/SheplX/blob/main/Img/email.png"/></a>
 </p>
 <br/>
 <!-- <p align="center">
