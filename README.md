@@ -13,26 +13,13 @@
 <!-- <p align="center">
   <img width="600" height="300" src=" ">
 </p> -->
-<h1 align="center"> :rocket: A Passionate DevOps Engineer</h1>
+<!-- <h1 align="center"> :rocket: A Passionate DevOps Engineer</h1> -->
 <p align="center">
-DevOps Engineer & AWS Certified Cloud Practitioner Interested in Cloud Development, Custom Android Roms, Cyber Security Tools, I’m currently developing my skills in DevOps Tools.
+DevOps Engineer skilled with a wide range of tools and technologies for continuous integration and delivery, infrastructure automation, and cloud computing. With expertise in managing and deploying applications on cloud platforms such as AWS, and Google Cloud. With a focus on building and maintaining robust and efficient pipelines solutions for automated testing, deployment, and monitoring across various environments.
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheplX&layout=compact&theme=radical&hide_border=true"
 </p> 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&hide_border=true"
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&hide_border=true&theme=radical"
-</p>         
-<!-- ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true) -->
-<!-- ![Shepl's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical) -->
-<!-- https://cdn-icons.flaticon.com -->
-<!---
-SheplX/SheplX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&show_icons=true"
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheplX&layout=compact&theme=radical&show_icons=true"
-</p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&show_icons=true&theme=radical"
-</p>    -->
