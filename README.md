@@ -18,20 +18,20 @@ Skilled with a wide range of tools and technologies for continuous integration a
   <a href="#"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Helm-277A9F?style=for-the-badge&logo=helm&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Nexus-3C3F42?style=for-the-badge&logo=sonatype&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Nexus-4EAA25?style=for-the-badge&logo=nexus3&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-API-FF5733?style=for-the-badge&logo=swagger&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-API-3C3F42?style=for-the-badge&logo=swagger&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitOps-222222?style=for-the-badge&logo=gitops&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Argo%20CD-2D98FF?style=for-the-badge&logo=argo&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Argo%20CD-F05032?style=for-the-badge&logo=argo&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Linux-3C3F42?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Bash-222222?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheplX&layout=compact&theme=radical&hide_border=true"
