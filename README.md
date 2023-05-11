@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <br/>
 <p align="center">
-DevOps Engineer skilled with a wide range of tools and technologies for continuous integration and delivery, infrastructure automation, and cloud computing. With expertise in managing and deploying applications on cloud platforms such as AWS, and Google Cloud. With a focus on building and maintaining robust and efficient pipeline solutions for automated testing, deployment, and monitoring across various environments
+Skilled with a wide range of tools and technologies for continuous integration and delivery, infrastructure automation, and cloud computing. With expertise in managing and deploying applications on cloud platforms such as AWS, and Google Cloud. With a focus on building and maintaining robust and efficient pipeline solutions for automated testing, deployment, and monitoring across various environments
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"></a>
