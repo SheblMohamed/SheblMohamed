@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/SheplX"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;Iam%20DevOps%20Engineer;Building%20Different%20Solutions;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <p align="center">
   <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/SheplX/SheplX/blob/main/Img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -8,9 +7,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:shepl.dev@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/SheplX/SheplX/blob/main/Img/email.png"/></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
 <br/>
 <p align="center">
-DevOps Engineer skilled with a wide range of tools and technologies for continuous integration and delivery, infrastructure automation, and cloud computing. With expertise in managing and deploying applications on cloud platforms such as AWS, and Google Cloud. With a focus on building and maintaining robust and efficient pipeline solutions for automated testing, deployment, and monitoring across various environments.
+DevOps Engineer skilled with a wide range of tools and technologies for continuous integration and delivery, infrastructure automation, and cloud computing. With expertise in managing and deploying applications on cloud platforms such as AWS, and Google Cloud. With a focus on building and maintaining robust and efficient pipeline solutions for automated testing, deployment, and monitoring across various environments
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"></a>
