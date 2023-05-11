@@ -25,10 +25,11 @@ DevOps Engineer skilled with a wide range of tools and technologies for continuo
   <a href="#"><img src="https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-API-FF5733?style=for-the-badge&logo=swagger&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Argo%20CD-2D98FF?style=for-the-badge&logo=argocd&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitOps-222222?style=for-the-badge"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitOps-222222?style=for-the-badge&logo=gitops&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Argo%20CD-2D98FF?style=for-the-badge&logo=argo&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
