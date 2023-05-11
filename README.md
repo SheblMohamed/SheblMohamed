@@ -13,6 +13,7 @@
 Skilled with a wide range of tools and technologies for continuous integration and delivery, infrastructure automation, and cloud computing. With expertise in managing and deploying applications on cloud platforms such as AWS, and Google Cloud. With a focus on building and maintaining robust and efficient pipeline solutions for automated testing, deployment, and monitoring across various environments
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Vault-222222?style=for-the-badge&logo=vault&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
