@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SheplX"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;Iam%20DevOps%20Engineer;Building%20Different%20Solutions;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/SheplX"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome👋!;Iam%20DevOps%20Engineer;Building%20Different%20Solutions;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 <p align="center">
   <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/SheplX/SheplX/blob/main/Img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
