@@ -20,12 +20,15 @@ Skilled with a wide range of tools and technologies for continuous integration a
   <a href="#"><img src="https://img.shields.io/badge/-Helm-277A9F?style=for-the-badge&logo=helm&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nexus-4EAA25?style=for-the-badge&logo=nexus3&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/IIS-0052CC?style=for-the-badge&logo=microsoft-internet-information-services&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-API-3C3F42?style=for-the-badge&logo=swagger&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitOps-222222?style=for-the-badge&logo=gitops&logoColor=white"></a>
@@ -37,7 +40,7 @@ Skilled with a wide range of tools and technologies for continuous integration a
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheplX&layout=compact&theme=radical&hide_border=true"
 </p> 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SheplX&theme=radical&hide_border=true"
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SheplX&theme=radical&hide_border=true"
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheplX&layout=compact&hide_border=true&theme=radical"
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SheplX&layout=compact&hide_border=true&theme=radical"
 </p>
