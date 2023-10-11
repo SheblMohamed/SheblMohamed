@@ -7,8 +7,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:shepl.dev@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/SheplX/SheplX/blob/main/Img/email.png"/></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SheplX&label=Profile%20views&color=0e75b6&style=flat" alt="SheplX" /> </p>
-<br/>
 <p align="center">
 Skilled with a wide range of tools and technologies for continuous integration and delivery, infrastructure automation, and cloud computing. With expertise in managing and deploying applications on cloud platforms such as AWS, and Google Cloud. With a focus on building and maintaining robust and efficient pipeline solutions for automated testing, deployment, and monitoring across various environments
 <p align="center">
