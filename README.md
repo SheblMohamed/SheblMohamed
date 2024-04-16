@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SheplX"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome👋!;Iam%20DevOps%20Engineer;Building%20Different%20Solutions;I%20Love%20Automation;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/SheplX"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome👋!;Iam%20DevOps%20Engineer;Building%20Different%20Solutions;I%20Love%20Automating%20Everything;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 <p align="center">
   <a href="https://t.me/CHI_X_NGO"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/SheplX/SheplX/blob/main/Img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -23,7 +23,7 @@ With over 2 years of experience as a dedicated DevOps Engineer, I have specializ
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-IIS-0052CC?style=for-the-badge&logo=microsoft-internet-information-services&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Microsoft%20IIS-0052CC?style=for-the-badge&logo=internet-information-services&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-API-3C3F42?style=for-the-badge&logo=swagger&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"></a>
