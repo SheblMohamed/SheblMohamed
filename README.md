@@ -28,6 +28,7 @@ With over 2 years of experience as a dedicated DevOps Engineer, I have specializ
   <a href="#"><img src="https://img.shields.io/badge/-API-3C3F42?style=for-the-badge&logo=swagger&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-msbuild-0078D7?style=for-the-badge&logo=dotnet&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white"></a>
