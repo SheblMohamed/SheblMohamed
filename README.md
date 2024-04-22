@@ -37,7 +37,7 @@ With over 2 years of experience as a dedicated DevOps Engineer, I have specializ
   <a href="#"><img src="https://img.shields.io/badge/-Argo%20CD-F05032?style=for-the-badge&logo=argo&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Linux-3C3F42?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bash-222222?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-powershell-0052CC?style=for-the-badge&logo=powershell&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-PS-0052CC?style=for-the-badge&logo=powershell&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 <p align="center" style="font-size:0;">
