@@ -46,6 +46,7 @@ With over 2 years of experience as a dedicated DevOps Engineer, I have specializ
 <p align="center" style="font-size:0;">
 <a href="https://www.credly.com/badges/7fd0695c-ddf4-4cdb-99b1-0ea1fdee5cff/public_url"><img src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/f2c010f8-60bb-4b6d-9eef-b3067e9dac1a/public_url"><img src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/322f2ee9-6fed-4a2a-a3ac-e94d5579d9c1/public_url"><img src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg" alt="CKS" width="100" height="100"></a>
 </p>
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheplX&layout=compact&theme=radical&hide_border=true"
