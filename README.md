@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://t.me/SheblMohamed"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/SheblMohamed/SheblMohamed/blob/main/Img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shepl/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/SheblMohamed/SheblMohamed/blob/main/Img/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/SheblMohamed/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/SheblMohamed/SheblMohamed/blob/main/Img/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:shepl.dev@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/SheblMohamed/SheblMohamed/blob/main/Img/email.png"/></a>
+  <a href="mailto:shebl.workspace@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/SheblMohamed/SheblMohamed/blob/main/Img/email.png"/></a>
 </p>
 <p align="center">
 DevOps Engineer with over three years of experience in deploying, automating, and managing applications and infrastructure across full-stack projects. Expertise in cloud infrastructure management with AWS. Skilled in managing Kubernetes clusters, CI/CD pipelines, and GitOps tools to ensure efficient, secure, and scalable solutions. Proven ability to collaborate with development and IT teams to optimize performance, enhance security, and maximize resource utilization.
