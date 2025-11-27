@@ -7,9 +7,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:shebl.workspace@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/SheblMohamed/SheblMohamed/blob/main/Img/email.png"/></a>
 </p>
-<p align="center">
+<!-- <p align="center">
 DevOps Engineer with over three years of experience in deploying, automating, and managing applications and infrastructure across full-stack projects. Expertise in cloud infrastructure management with AWS. Skilled in managing Kubernetes clusters, CI/CD pipelines, and GitOps tools to ensure efficient, secure, and scalable solutions. Proven ability to collaborate with development and IT teams to optimize performance, enhance security, and maximize resource utilization.
-<p align="center">
+<p align="center"> -->
   <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"></a>
   <a href="https://www.vaultproject.io/"><img src="https://img.shields.io/badge/-Vault-222222?style=for-the-badge&logo=vault&logoColor=white"></a>
   <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"></a>
@@ -57,9 +57,9 @@ DevOps Engineer with over three years of experience in deploying, automating, an
 <a href="https://www.credly.com/badges/07f818b9-803c-47eb-ad47-ec96416c7639/public_url"><img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="100" height="100"></a>
 </p>
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheblMohamed&layout=compact&theme=radical&hide_border=true"
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheblMohamed&layout=compact&theme=radical&hide_border=true"
 </p> 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SheblMohamed&theme=radical&hide_border=true"
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SheblMohamed&layout=compact&hide_border=true&theme=radical"
-</p>
+</p> -->
