@@ -48,6 +48,7 @@ DevOps Engineer with over three years of experience in deploying, automating, an
 </p>
 <p align="center" style="font-size:0;">
 <a href="https://www.credly.com/badges/33e96ef5-a6c2-4d75-b8ba-a7a1e90a39d5/public_url"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="ACP" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/1a86d407-1308-435f-b992-d824d61f83b4/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="SAA" width="100" height="100"></a>
 </p>
 <p align="center" style="font-size:0;">
 <a href="https://www.credly.com/badges/61167596-351f-49ea-9f40-56502e30d4ed/public_url"><img src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="100" height="100"></a>
