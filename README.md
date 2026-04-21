@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/SheblMohamed"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome👋!;Iam%20DevOps%20Engineer;Building%20Different%20Solutions;I%20Love%20Automating%20Everything;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 <p align="center">
-  <a href="https://t.me/SheblMohamed"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/SheblMohamed/SheblMohamed/blob/main/Img/telegram.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- <a href="https://t.me/SheblMohamed"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/SheblMohamed/SheblMohamed/blob/main/Img/telegram.png"/></a> -->
+  <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://www.linkedin.com/in/SheblMohamed/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/SheblMohamed/SheblMohamed/blob/main/Img/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:shebl.workspace@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/SheblMohamed/SheblMohamed/blob/main/Img/email.png"/></a>
@@ -46,19 +46,57 @@ DevOps Engineer with over three years of experience in deploying, automating, an
   <a href="https://www.sonarqube.org/ "><img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white "></a>
   <a href="https://wazuh.com/ "><img src="https://img.shields.io/badge/-Wazuh-00A4DC?style=for-the-badge&logo=wazuh&logoColor=white "></a>
 </p>
-<p align="center" style="font-size:0;">
-<a href="https://www.credly.com/badges/33e96ef5-a6c2-4d75-b8ba-a7a1e90a39d5/public_url"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="ACP" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/1a86d407-1308-435f-b992-d824d61f83b4/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="SAA" width="100" height="100"></a>
-</p>
-<p align="center" style="font-size:0;">
-<a href="https://www.credly.com/badges/61167596-351f-49ea-9f40-56502e30d4ed/public_url"><img src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/a98f66bf-8504-406a-a742-c6b5893043ff/public_url"><img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/a4e49ff9-4962-4739-a309-d5f1ae65bf26/public_url"><img src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg" alt="CKS" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/ed9b63dc-6000-44c7-b1f1-3a2286dac937/public_url"><img src="https://www.cncf.io/wp-content/uploads/2021/09/kcna_color.svg" alt="KCNA" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/839e5f0a-bb3f-47c2-8511-ed4e3fcd7f25/public_url"><img src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg" alt="KCSA" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/07f818b9-803c-47eb-ad47-ec96416c7639/public_url"><img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="100" height="100"></a>
-</p>
-</p>
+<!-- AWS Certifications Row -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/33e96ef5-a6c2-4d75-b8ba-a7a1e90a39d5/public_url">
+        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="ACP" width="100" height="100">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/1a86d407-1308-435f-b992-d824d61f83b4/public_url">
+        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="SAA" width="100" height="100">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Kubernetes Certifications Row -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/61167596-351f-49ea-9f40-56502e30d4ed/public_url">
+        <img src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="80" height="80">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/a98f66bf-8504-406a-a742-c6b5893043ff/public_url">
+        <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD" width="80" height="80">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/a4e49ff9-4962-4739-a309-d5f1ae65bf26/public_url">
+        <img src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg" alt="CKS" width="80" height="80">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/ed9b63dc-6000-44c7-b1f1-3a2286dac937/public_url">
+        <img src="https://www.cncf.io/wp-content/uploads/2021/09/kcna_color.svg" alt="KCNA" width="80" height="80">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/839e5f0a-bb3f-47c2-8511-ed4e3fcd7f25/public_url">
+        <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg" alt="KCSA" width="80" height="80">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/07f818b9-803c-47eb-ad47-ec96416c7639/public_url">
+        <img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="80" height="80">
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SheblMohamed&layout=compact&theme=radical&hide_border=true"
 </p> 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SheblMohamed&theme=radical&hide_border=true"
